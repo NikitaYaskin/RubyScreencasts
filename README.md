@@ -3,34 +3,34 @@
 ## Ruby only lessons
 ### Lessons: 1 - 25, 32, 38, 41, 48, 49, 50
 
-* Lesson 1:  First programm on ruby
-* Lesson 2:  Strings and digits
-* Lesson 3:  Variables
-* Lesson 4:  Operators vol. 1
-* Lesson 5:  Operators vol. 2
-* Lesson 6:  Сonditional expressions vol. 1
-* Lesson 7:  Сonditional expressions vol. 2
-* Lesson 8:  Cycle while
-* Lesson 9:  Methods vol. 1
-* Lesson 10: Methods vol. 2
-* Lesson 11: Methods vol. 3
-* Lesson 12: Objects and classes
-* Lesson 13: Properties, getters and setters
-* Lesson 14: Attribute reader, writer and acceccors
-* Lesson 15: Symbols and hashes
-* Lesson 16: Еverything is an object
-* Lesson 17: Arrays
-* Lesson 18: Blocks vol. 1
-* Lesson 19: Blocks vol. 2
-* Lesson 20: Blocks vol. 3
-* Lesson 21: Inheritance and polymorphism
-* Lesson 22: Class methods and variables
-* Lesson 23: Public and private methods
-* Lesson 24: Modules
-* Lesson 25: Nested modules and classes
-* Lesson 32: Constants
-* Lesson 38: Class constants
-* Lesson 41: Work with time
-* Lesson 48: Proc and lambda vol. 1
-* Lesson 49: Proc and lambda vol. 2
-* Lesson 50: RubyGems and Bundler
+* Lesson 1:  [First programm on ruby](https://www.youtube.com/watch?v=IWZ_71EKbng&t=3s)
+* Lesson 2:  [Strings and digits](https://www.youtube.com/watch?v=tmu4xxtTKv4)
+* Lesson 3:  [Variables](https://www.youtube.com/watch?v=_xWu-NxQGPs)
+* Lesson 4:  [Operators vol. 1](https://www.youtube.com/watch?v=9nn2XFALKbM)
+* Lesson 5:  [Operators vol. 2](https://www.youtube.com/watch?v=zR_4n9DPLG8)
+* Lesson 6:  [Сonditional expressions vol. 1](https://www.youtube.com/watch?v=V97rjruZMGg)
+* Lesson 7:  [Сonditional expressions vol. 2](https://www.youtube.com/watch?v=LK_kU273aX0)
+* Lesson 8:  [Cycle while](https://www.youtube.com/watch?v=gA27Lesmo_A)
+* Lesson 9:  [Methods vol. 1](https://www.youtube.com/watch?v=b9BI-zm4zUA)
+* Lesson 10: [Methods vol. 2](https://www.youtube.com/watch?v=hxSYmZWgLrc)
+* Lesson 11: [Methods vol. 3](https://www.youtube.com/watch?v=5IU_0-Ft5FY)
+* Lesson 12: [Objects and classes](https://www.youtube.com/watch?v=TBCcAt4DX80)
+* Lesson 13: [Properties, getters and setters](https://www.youtube.com/watch?v=mISvGrQe-Y4)
+* Lesson 14: [Attribute reader, writer and acceccors](https://www.youtube.com/watch?v=arIhe-M-mVo)
+* Lesson 15: [Symbols and hashes](https://www.youtube.com/watch?v=JlTOoJgeuRg)
+* Lesson 16: [Еverything is an object](https://www.youtube.com/watch?v=rGMLhWTnkDg)
+* Lesson 17: [Arrays](https://www.youtube.com/watch?v=4Ixiup7aZ1I)
+* Lesson 18: [Blocks vol. 1](https://www.youtube.com/watch?v=Zq-vikppqGY)
+* Lesson 19: [Blocks vol. 2](https://www.youtube.com/watch?v=ARYXsPP3NpY)
+* Lesson 20: [Blocks vol. 3](https://www.youtube.com/watch?v=_R0v-8iBJzM)
+* Lesson 21: [Inheritance and polymorphism](https://www.youtube.com/watch?v=lVeHhCjJPzI)
+* Lesson 22: [Class methods and variables](https://www.youtube.com/watch?v=EKTcVSkiuaA)
+* Lesson 23: [Public and private methods](https://www.youtube.com/watch?v=rbFL5WGd6dg)
+* Lesson 24: [Modules](https://www.youtube.com/watch?v=VK5DWBmb8vM)
+* Lesson 25: [Nested modules and classes](https://www.youtube.com/watch?v=CakRCaqcfJg)
+* Lesson 32: [Constants](https://www.youtube.com/watch?v=QDh2akGIwzA)
+* Lesson 38: [Class constants](https://www.youtube.com/watch?v=oh6wXi4jAYA)
+* Lesson 41: [Work with time](https://www.youtube.com/watch?v=RPGozyC_7Oo)
+* Lesson 48: [Proc and lambda vol. 1](https://www.youtube.com/watch?v=lkZQ2QN69p0)
+* Lesson 49: [Proc and lambda vol. 2](https://www.youtube.com/watch?v=TMO74VP-GIk)
+* Lesson 50: [RubyGems and Bundler](https://www.youtube.com/watch?v=vAX3-iJWEMM)
